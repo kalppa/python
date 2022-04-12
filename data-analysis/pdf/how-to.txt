@@ -1,0 +1,2375 @@
+Page 1 
+----------------------------------------------------------------------------------------------------
+N
+ 1985,
+  I W AS ASKED A SER
+I
+ES OF QUEST
+I
+ ONS, AND HA VE 
+ been  
+ tracking down their answers ever since. Bell Laboratories (then part of  
+ A T
+&
+T
+ Corp. and now mostly belonging to Lucent 
+T
+ech
+ 
+ nologies Inc.) was  
+ perplexed. It hired the best and the brightest from the world™ s most prestigious universities, but  
+
+ only a few lived up to their apparent potential for brilliance. Most developed into solid performers  
+
+of mostly average productivity who did not substantially further Bell Labs™ contribution to 
+ A T
+&
+T
+ ™ s  
+
+ competitive advantage in the marketplace.  
+ HO W    T O BE
+A
+ 
+ ST A R
+ EN GIN
+EE
+R
+ Engineers fr om the best companies helped r esear chers to dispel the myths about  
+star performers and
+ 
+ uncover the surprising secr ets of stellar achievement
+ car eers
+ 
+  
+51
+ ILLUSTRA TIONS: NOAH WOODS
+R
+ O B E
+R
+T
+ 
+E
+ .   K
+ E L L E Y
+ Carnegie Mellon  
+University
+10.Engineers.indd   51
+6/23/16   9:37 AM
+Authorized licensed use limited to: Cisco. Downloaded on July 16,2021 at 09:15:12 UTC from IEEE Xplore.  Restrictions apply.
+ 
+Page 2 
+----------------------------------------------------------------------------------------------------
+52
+ 
+0018-9235/99/$10.00©1999 I
+EEE
+ 
+ 
+I
+EEE
+ 
+S
+PE
+C
+TRU
+M
+   
+OC
+TO
+B
+ER 1999
+W
+ hat the labs wanted to know was: what separates the star  
+ from the average performer? Is it innate or can star performance  
+ be  learned?  Could  a  program  to  improve  productivity  be  designed  
+
+that would help turn average performers into stars?
+N
+ot just companies are asking these questions. 
+S
+ ince 1985, I  
+have met few professionals who do not want to be more produc
+-
+ tive. In their own minds, most engineers believe they can  be  stars.  
+
+T
+ hey dislike being outshone by a co-worker and strive constantly  
+
+ to do better than before. In the workplace, they are being forced  
+
+ to do more with less. Global competition,  mergers, and downsiz
+-
+ i n g s  h a v e  l e f t  t h e m  w i t h  g r e a t e r  r e s p o n s i b i l i t i e s  a n d  f e w e r  
+
+resources. 
+W
+ ho among us is not working longer and harder today  
+
+ than  five  years  ago? 
+W
+ ho  does  not  have  more  work  piled  up  in  
+the in-basket or long lists of unanswered e-mail and phone mes
+-
+ s a g e s ?  
+W
+ h i c h  o f  u s  i s  no t  a f r a i d  t h a t  i f  w e  a r e  no t  m o r e  p r o d u c
+-
+ tive,  we  might  get  the  ax  next? 
+W
+ ho  does  not  want  more  control  
+ over their livesŠa better balance between work and personal  
+
+lives? 
+E
+ veryone is being told to work smarter , but no one seems  
+
+to know what that means.
+ My colleagues and I have been working on these corporate and  
+personal productivity questions ever since. 
+O
+ver a thousand engi
+-
+ neers  from  Bell  Laboratories,  3M,  and 
+H
+ewlett-
+P
+ ackard  contrib
+-
+ uted to the original research as both collaborators and subjects.  
+
+T
+ o discover the secrets of star performance, we used paper -and-
+ p e n c i l  t e s t s ,  d i r e c t  o b s e r v a t i o n ,  w o r k  d i a r i e s , f o c u s  g r o u p s , a n d  
+
+ individual interviews, drawing upon  statistical analyses, content  
+
+ analyses, and iterative model building as appropriate.  
+Many other companies took part, from those reliant on electri
+-
+ cal  engineersŠsuch  as 
+A
+nalog 
+D
+evices, 
+F
+ore 
+S
+ ystems,  and 
+A
+ ir  
+T
+ouchŠto those like 
+S
+hell 
+O
+il and 
+K
+ imberly Clark that are  
+involved in other kinds of engineering. 
+T
+hey have used our pro
+-
+ ductivity improvemen t pr og ra m to turn their engineers into higher  
+
+ performers and in so doing have also contributed to the growing  
+
+body of knowledge on star performance.
+ The path to star dom
+Lai and 
+H
+ enry were hired at Bell Laboratories with similar  
+credentials: 3.8 G
+ P A
+ s (grade point averages) from top-ranked  
+
+ undergraduate programs in electrical engineering; summer  
+
+internships at computer companies; and glowing recommenda
+-
+ tions from professors. Y et they took distinctly different  
+
+approaches to their first six-month assignment. Mornings, they 
+
+ took classes in telephone technology and the methods Bell Labs  
+
+uses to conduct its work. 
+A
+ fternoons were spent on break-in  
+
+projectsŠwork that needed to be done but that would not jeop
+-
+ ardize crucial projects if done badly .  
+H
+ enry holed up in his office as if writing his dissertation or  
+studying for a law bar exam. 
+H
+ e collected volumes of technical  
+
+ documents to acquaint himself with the latest ideas, surfacing  
+
+only for a bathroom break or a mandatory staff meeting. ﬁ
+W
+ hat™ s  
+
+ going to count,ﬂ he remembered thinking at the time, ﬁis whether  
+
+ I can prove to my co-workers how technically smart I am.ﬂ  
+ Lai set aside 3 hours each afternoon to work on her assignment  
+ and  to  sharpen  her  technical  skills.  In  whatever  time  was  left  of  
+
+ her workday , she introduced herself to co-workers and asked  
+ questions about their projects. If one of them needed a hand or  
+ was facing schedule pressures, she volunteered to help. Lai was  
+
+ new to the work place culture, but even so her colleagues warmed  
+
+ to her willingness to pitch in, especially given that their problems  
+
+were not hers.
+O
+ ne afternoon, a colleague was struggling with a recalcitrant  
+ program  for a software project due the next week. Lai had picked  
+
+ up a new programming tool in an advanced course, and she  
+
+ thought it  could handle the problem. 
+S
+ o  she offered  to work  on  
+
+the program while her colleague focused on the larger project. 
+O
+ n  
+
+ another occasion, some sophisticated software tools had to  be 
+
+ installed on everyone™ s office 
+P
+C. 
+S
+ tandard practice was for each  
+P
+ C user to do the job by trial and error . 
+H
+ aving run into the same  
+
+ cumbersome procedure during an internship, Lai thought it more  
+
+ sensible for one person to install the tools in all the machines, and  
+
+ s he  of f er e d t o d o th e  jo b.  Bu t  t h e i ns t al l a ti on s  p r ov e d u ne x pe c t
+-
+ edly  tough, requiring  two  weeks rather than  the four  days she  had  
+
+ planned. Lai could have backed off but she saw it through, even  
+
+ though she had to come in early and stay late for several days so  
+
+ that neither her work assignment nor her class work would suffer .    
+A
+fter six months, 
+H
+ enry and Lai had finished their technical  
+classes and their first assignments. 
+T
+ heir projects were successful  
+
+ an d ju dg ed t ec hni ca ll y co mp et ent . In de ed , 
+H
+ e nr y™ s wo rk m ay  
+
+ have been slightly more technically proficient than Lai™ s.  
+But in the work place, 
+H
+enry came up short. 
+W
+ hile known as  
+ a nice guy , he was also pegged as a loner . 
+H
+e was seen as techni
+-
+ cally adept, but his ability to share his skills with co-workers was  
+
+questioned. 
+H
+e carried on as if still in school, where the individ
+-
+ ual™ s performance is what counts.  
+ But Lai came across as someone who took initiative, who saw  
+ severa l problems and stepped forwar d to solve t hem even  
+
+ though they were not her responsibility . 
+S
+ he had created the  
+
+ impression of being in the lab group for far longer than six  
+
+months. Managers of course noticed she was showing the char
+-
+ acteristics of a star engineer and already were viewing her as a  
+
+candidate for fast-track assignments. 
+A
+ s  se en  in the  qu iz  on  ﬁ
+U
+ n de rst and ing sta r p er for mer sﬂ  [p . 58 ],  
+most people (like 
+H
+ enry) have preconceptions about what causes  
+
+ star productivity , and most of their notions are as wrong as can  
+
+be. 
+O
+ ver the past 14 years, we have debunked many common  
+
+ myths and made some startling discoveries about the outstanding  
+
+ engineer . 
+O
+ ne of our first findings was that workers and their  
+
+bosses tend to disagree on who the star performers are. 
+W
+ e first  
+asked managers to list their choices. 
+W
+e then suggested narrow
+-
+ ing the list to those persons they would turn to if they had to staff  
+
+an important new project, if they had a crisis that needed a 
+ SW A T
+ 
+(
+S
+pecial 
+W
+ eapons  and 
+T
+ actics) team, or if they were  going  to hire  
+for their own business. 
+W
+ hen we showed the list to a group of  
+
+ star performers, they pooh-poohed the managers™ selections.  
+
+ﬁ
+H
+ ow did Joe  get  on the list?ﬂ they  asked  incredulously .  ﬁJoe hasn™ t  
+10.Engineers.indd   52
+6/23/16   9:37 AM
+Authorized licensed use limited to: Cisco. Downloaded on July 16,2021 at 09:15:12 UTC from IEEE Xplore.  Restrictions apply.
+ 
+Page 3 
+----------------------------------------------------------------------------------------------------
+KE
+LL
+E
+Y Š 
+HOW
+ 
+TO
+ B
+E
+ 
+A
+ 
+ ST AR
+ 
+EN
+GI
+NEER
+ 
+ 
+ 
+53
+done much for years. 
+A
+ nd where™ s Maria? 
+E
+ veryone turns to her  
+ when they hit a brick wall or need new ideas.ﬂ  
+T
+he difference in their reactions gave us pause. 
+W
+ e took a step  
+ back and asked managers and brain-powered workers to name  
+
+ t h o s e  p e o p l e  w h o  g r e a t l y  o u t p r o d u c e d  a n d  o u t p e r f o r m e d  t h e i r  
+
+ peers,  especially  if  they  did  so  with methods  others  admired. 
+W
+ e  
+ w er e  a ft e r t he  cr ea m  o f  t he  cr o pŠ we  w a nt ed  to  w e ed  ou t  t he  
+
+ high producers who bulldoze their way to greater productivity  
+
+but whose wake of destruction swamps any positive contribution.
+T
+ h e  r e s u l t  o f  t h i s  e x e r c i s e  w a s  o n l y  a  5 0  p e r c e n t  o v e r l a p  
+between the two groups. Brainpowered workers and their man
+-
+agers disagree half the time on who the stars are.
+F
+ o r  o u r  o r i g i n a l  r e s e a r c h  a t  B e l l  L a b s ,  w e  r e f i n e d  o u r  s a m p l e .  
+W
+ e included only people on both managers™ and co-workers™ star  
+ lists. (In later work with 3M, we added the requirement that the  
+
+ stars  receive  customers™  approval,  as  well.) 
+W
+ e  also  took  into  
+ account  the  number of  awards,  honors, and  performance bonuses  
+
+ won,  as  well  as  patent  or  publication  credits  where  applicable.  
+
+T
+ hese undisputed stars were the group we studied and whose  
+
+performance was the basis for our research.
+T
+ o pin down how star performers and solid middle performers  
+ differ , our research team asked top executives, middle managers,  
+
+engineers, and other researchers for their opinions. 
+W
+ e accumulated  
+ 4 5  f a c t o r s  t h a t  m a n a g e r s  a n d s t a r  p e r f o r m e r s  c l o se  t o  t h e  a c t i o n  
+
+ believed  led  to  outstanding  performance. 
+T
+ he  four  main  categories  
+
+were: cognitive factors, such as higher I
+Q
+, logic, reasoning and cre
+-
+ativity; personality factors, such as self confidence, ambition, cour
+-
+ age, and a feeling of personal control over one™ s destiny; social fac
+-
+ tors, such  as interpersonal  skills  and leadership; and work and 
+
+ organizational factors, such as the worker™ s relationship with the  
+
+ boss, job satisfaction, and attitudes toward pay and other rewards.  
+N
+ ext,  to  figure  out  which  of  the  45  factors  differentiated  
+between the groups, we put hundreds of star and average perform
+-
+ers in meeting rooms across the country and administered a two-
+
+ day battery  of tests. 
+W
+ e also  did surveys,  developed detailed  case  
+ histories,  and  interviewed  employees  and  the  managers  who  hired  
+
+them. 
+E
+ ngineers and managers also supplied us with biographical  
+
+ information and personnel file material.  
+P
+ erplexingly ,  after  two  years,  our  data  showed  no  appreciable  
+ c o g n i t i v e ,  p e r s o n a l  o r  p s y c h o l o g i c a l ,  s o c i a l ,  o r  w o r k  o r  o r g a n i z a
+-
+tional differences between stars and non-stars. 
+F
+ or each traditional  
+
+ measure, alone or in combination, we had come up empty . 
+W
+ e  
+compared the numbers a dozen ways, stretched computer analy
+-
+ ses to their limits, and with each run, found the computer spitting  
+
+back what we then thought was the result of some terrible meth
+-
+ odological mistake: there were no quantifiable differences.  
+
+ between members of the two groups.  
+ Y et,  by  recognizing  this,  had  we  not  discovered  something  
+critically important? 
+T
+ hat the four factors we presumed were vital  
+
+to star performanceŠcognitive, psychological, social, and orga
+-
+nizational characteristicsŠwere not the real drivers at all?
+T
+ he long-term value of our effort was that it laid to rest the cloud  
+of myths around star performance [see quiz, p. 58]. 
+A
+ nd in fact, over  
+
+ the next years of our research, we learned that other factors were at  
+
+ play .  Most  engineers  come  to  the  workplace  with  more  than  enough  
+
+ potential to succeed splendidly , but most end up as run-of-the-mill.  
+
+T
+ he stars were not standouts because of what they had in their heads  
+
+ b u t  b e c a u s e  o f  h o w  t h e y  u s e d  w h a t  t h e y  h a d .  
+T
+ h e  p r o d u c t i v i t y  
+ mystery lay in learning how to transform their talents into high  
+
+ productivityŠmuch like turning potential energy into kinetic  
+ energy . 
+S
+ tars, we saw , are made, not born.
+Nine work strategies
+S
+ o, if you are an engineer se arch ing for a producti vit y boost  
+ to your intellectual capital, what must you do to dazzle everyone?  
+P
+rior to our work, an answer did not exist. 
+T
+he star work strate
+-
+gies were taught nowhere, not in school or on the job. 
+F
+ or the  
+ most part, it was a matter of trial and error . But many technically  
+
+ competent  engineers  make  too  many  productivity  errors  to  end  
+
+up as more than average. 
+F
+ or example, they fail to take initiatives  
+
+or take initiatives of no importance to the organization.
+W
+ e found that you need to change how you do your work  
+ a n d  h o w  y o u  w o r k  w i t h  o t h e r s .  
+S
+ t a r  p e r f o r m e r s  i n  f a c t  d o  t h e i r  
+work quite differently from the pack. 
+T
+ hey weave their starring  
+
+ strategies into a consistent pattern of day-to-day behavior . But  
+
+ any engineer with the necessary smarts and motivation can  
+
+ acquire their power .
+A
+ ll the same, no Big Bang revelation unleashes this kind of  
+ productivity . 
+N
+ o magic pill or silver bullet will blast you to the  
+
+top. Instead, stellar performance is based on a set of nine inter
+-
+ locking  work  strategies. 
+T
+ hey  are  ranked  in  order  of  importance  
+and synthesized into an expert model.
+1. Blazing trails
+W
+ ha t di d you t hin k of 
+H
+ enry  and Lai? 
+D
+ id yo u se e 
+H
+ e nry™ s 
+ emphasis on just technical competence as undervalued or Lai as  
+
+ being rewarded for , well, schmoozing?  
+A
+ ver age  per for mer s, l ike  
+H
+ en ry , i mag ine  ini tia tive  is  com ing  
+ up  with  ideas  for doing their  job better  or volunteering for little  
+
+extras in the workplace, like planning the annual picnic or recruit
+-
+ ing people  for  the  blood  drive.  Indeed, 
+H
+ enry  believed he  was  
+ taking initiative. ﬁI gathered up the latest technical information  
+
+ and learned about the latest software tools so that I could do a  
+
+bang-up job on my assignment. 
+N
+ obody told me to do any of  
+
+that,ﬂ he told us.
+W
+hat Lai understood, and 
+H
+ enry did not, is that only certain  
+actions earn the initiative label. 
+S
+ tar -quality initiative means:
+
+
+
+(as when Lai installed the 
+P
+C software), while still completing 
+
+ your core assignment.  
+
+ l a r g e r  g r o u p ,  a s  w h e n  L a i  o f f e r e d  t o  h e l p  f i x  t h e  s o f t w a r e  p r o g r a m  
+
+ on her co-workers™ project.  
+
+
+
+ important work often pops up, grabbing your share of it, and  
+
+ doing a bang-up job on it.  
+
+
+
+ through  to  successful  implementation,  as  Lai  did  when  she  
+
+worked the extra days necessary to install the new office software.
+Many average performers suppose the only worthwhile initia
+-
+ tives  are  on  the  order  of  inventing  a  commercially  successful  new  
+
+ product, like the object-oriented Java language. If something will  
+
+ not  m ake  th e f ront -pa ge of 
+T
+ he  
+W
+ al l 
+S
+ tr eet  Jo urn al unde r a h ead
+-
+ line proclaiming a steep climb in bottom-line profits, then it isn™ t  
+
+worth the effort.
+S
+tar performers in our studies were adamant that while they 
+ are always looking for roof-raising initiatives,  the small, day-to-
+
+ day efforts had the same impact over time. Moreover , they  
+
+noted that the whopper initiatives tend to follow a long string 
+
+ of lesser efforts. If the work climate you create does not value  
+
+ small initiatives, they will dry up and the big ones will never get  
+
+ a chance to happen. Lai™ s helping-hand initiative, for instance,  
+
+ may have given a co-worker the breathing space needed to  
+make a meaningful breakthrough.
+T
+ he stars also believe that expectations about the initiative you  
+may take hinge on your level of experience. 
+A
+ s a new employee,  
+ Lai  was not expected to take big initiatives, but her record of  
+
+ taking smaller ones pleasantly surprised her co-workers and soon  
+
+ established her reputation as a productive engineer . 
+A
+ s she gains  
+
+ more experience, Lai will be expected to take on higher -level  
+
+ initiatives of greater difficulty and riskiness.  
+O
+ u r ob se rv at io ns  of  
+H
+ e nry , L ai , an d h un dr ed s of o the r en gi
+-
+ neers show that any newcomer in a unit of professionally skilled,  
+
+competitive workers must demonstrate initiative. 
+S
+ uch behavior  
+10.Engineers.indd   53
+6/23/16   9:37 AM
+Authorized licensed use limited to: Cisco. Downloaded on July 16,2021 at 09:15:12 UTC from IEEE Xplore.  Restrictions apply.
+ 
+Page 4 
+----------------------------------------------------------------------------------------------------
+54
+ 
+ 
+ 
+I
+EEE
+ 
+S
+PE
+C
+TRU
+M
+   
+OC
+TO
+B
+ER 1999
+ impresses managers, but more importantly , it impresses your  
+ c o - w o r k e r s  a n d  c u s t o m e r s .  C o - w o r k e r s  l o o k  f o r  p e o p l e  w h o  d o  
+
+not lock themselves within a rigid job description. 
+T
+ hey want  
+
+ colleagues, like Lai, who are willing to step into the gaps between  
+
+ jobs  because  they  know  that  if  the  new  worker  does  less  than  her  
+
+ or his share, the rest of them will have to carry more of the load.  
+
+T
+ hey need people who extend themselvesŠwhether it be to their  
+
+ colleagues, to the customers, or to the changing needs of the  
+
+ marketplace.  
+ Customers are also looking for these characteristics in the  
+ employees they encounter . 
+A
+  new hire who falls short of these  
+
+ e xpec ta tio ns wi ll be re leg ate d to the  p ack , l abe le d, per hap s  
+
+like 
+H
+ enry , as competent but not productive in ways that ben
+-
+ efit the group.  
+2. Knowing who knows
+A
+ verage performers think networking just means building a  
+ grapevine for learning the latest office gossip, or socializing with  
+
+ p e o p l e  i n   t h e i r   f i e l d   a n d   w i t h  e x e c u t i v e  h e a d   h u n t e r s   w h o   c a n  
+
+help them in future job hunting.
+S
+ tar producers engage in addition in a more important type of  
+networking. 
+A
+ s they realize, the information overload of today™ s  
+
+ society means  that  few people  know all they need to know to  get  
+
+their jobs done. 
+T
+ hey know maybe 50Œ80 percent, and until they  
+
+can make up the deficit, they are stuck. 
+W
+ hat helps the stars get  
+
+unstuck is effective networking.
+A
+  star knows it is vital to develop ahead of time dependable  
+ t wo - wa y  s t re e t s t o t he  ex p e rt s , w ho  w i l l h e lp  e a c h o th e r c om p l et e  
+
+the tasks critical to the bottom line. 
+T
+ he goal is to minimize the  
+
+ knowledge deficit that ev er y engineer discovers as she or he mea
+-
+sures up to a new job.
+S
+tars™ networks differ from typical workers™ networks in two 
+important respects. 
+T
+ hey have the right people in them, and they  
+
+ are faster .
+T
+ he people in their networks can provide the right answer the  
+first time. 
+A
+ verage  performers get wrong answers more  frequently  
+ either because they ask the wrong people or because the experts  
+
+with the right answers are not in their networks. 
+S
+ o they spin their  
+
+wheels or go down blind alleys.
+T
+ he faster networks get the stars unstuck and back on the task  
+ sooner than the rest. If it takes a star a half-day to get an answer ,  
+
+ it takes the others one to two days to get it and often it is wrong.  
+
+O
+ver time, these extra days add up.
+ Better -connected and faster networks allow the stars to tur
+-
+ bo-charge their productivity , so that they outpace the average  
+
+performers, who might have similar talent, but go it alone.
+ Claudio, an information technology consultant working for  
+the international consulting firm, 
+A
+ ndersen Consulting, was  
+
+ assigned to  write a contract proposal to a tight deadline. 
+A
+ t  stake  
+
+ was a $500 000 contract for providing information  technology  
+
+ support for bio-assaying processes used in biotechnology firms.  
+ Claudio remembered an undergraduate classmate who had  
+ gone to work for Genentech Inc., the industry leader , and called  
+
+ her .  In  turn,  she  put  him  in  touch  with  the  scientist  who  had  
+ pioneered the assaying process. In just  two  afternoon  phone  calls,  
+ he got the information critical for his report.  
+Contrast what befell 
+N
+ewt, an 
+A
+ ndersen colleague of  
+ C l a u d i o ™ s  w h o  n e e d e d  t h e  s a m e  i n f or m a t i o n .  I n s t e a d  o f  t h i n k i n g  
+
+through his network, 
+N
+ ewt followed the company™ s recom
+-
+ mended procedure and posted  his qu estion on the in -house  
+
+electronic bulletin board. 
+W
+ hen he logged into his computer  
+
+ the  next  workday ,  40  leads  were  waiting, all of  which had to be 
+
+ plowed through. Many of the messages contradicted one  
+
+ another , but as he knew none of the people who responded, he 
+
+ c o u l d  n o t  t o  j u d g e  t h e  q u a l i t y  o f  t h e i r  a n s w e r s .  
+H
+ e  w a s  e s s e n
+-
+tially still at square one with 40 potential leads to track down.
+T
+hus, while 
+N
+ ewt was still struggling with his information  
+ overload,  Claudio  had  already  used his star  network  to  move  
+
+faster and farther ahead.
+T
+ he current rage in many upper management circles is to  
+ embrace computer intranet-ing as the high-tech solution to  
+
+knowledge deficits. Managers spend millions of dollars on addi
+-
+ tional computer hardware and software, believing workers like  
+
+N
+ ewt can e-mail their way out of such quandaries. But successful  
+
+networking is most often accomplished in one-to-one interac
+-
+ t i o n s ,   n o t   i n   t h e  i m p e r s o n a l ,   o n e - t o - m a n y   f o r m a t   o f   c o m p u t e r  
+
+ technology . 
+S
+ tar networking entails building, maintaining, and  
+
+ operating within a group of experts who share knowledge for  
+
+ mutual benefit. It has little to do with technology .  
+ 3. Pr oactive self-management  
+A
+ verage  performers  believe  self-management  means  managing  
+ ti me  an d p roj ec ts  be tte r . I f t hei r work  i s d one  wi th in sc hed ul e,  
+
+budget, and specifications, then they must be good self-managers.
+S
+ tar producers know that much more than time or project  
+management is at stake. 
+T
+ hese requirements you are expected  
+
+and paid to meet. 
+T
+ heir work strategy helps them proactively  
+
+ create opportunities, direct work choic es, per form  e xtra we ll  
+
+ on the job, and carve out a career path. It enables them to  
+
+ develop a portfolio of talents and work experiences that  
+
+ increases their value to the company .
+E
+lena worked in the 
+R
+&
+D
+  department  of  an advanced  mate
+-
+ rials ceramics company supplying the auto industry . 
+S
+ he  
+
+requested travel funds to attend a productivity and quality con
+-
+ference. 
+A
+ s it was not directly related to her work, her boss  
+
+ could not see the point; besides travel funds in the budget were  
+
+ low . 
+E
+lena was undeterred. 
+S
+ ince she believed the conference  
+
+ would make her more valuable to the company , she took vaca
+-
+ tion time and paid her own way .  
+W
+hile she was there, she learned about 
+E
+ urope™ s upcoming  
+ q u a l i t y  s t a n d a r d ,  I
+ S O
+  9 0 0 0 .  
+T
+ h e  g o al  o f  t h e s e  b i d d i n g  r e q u i r e
+-
+ ments was to ensure higher -quality raw materials, products, and  
+
+processesŠall to give 
+E
+ uropean companies a greater competitive  
+
+ e dge  in wor ld mar ke ts . If  a  su ppl ie r c omp any , li ke  he rs , c oul d n ot  
+
+meet them, it would not be allowed to bid on 
+E
+ uropean projects.  
+E
+lena came back all jazzed up. 
+O
+ n her own time, she got up  
+ t o  s p e e d  o n  I
+ S O
+  9 0 0 0  r e q u i r e m e n t s  a n d  e x p l a i n e d  t h e m  t o  h e r  
+work group during a brown bag lunch. 
+P
+retty soon her co-work
+-
+ ers were excited, too, enough to go to their management and  
+
+ persuade them of the benefits of getting ahead of the learning  
+
+curve on 
+E
+ urope™ s I
+SO
+  9000 bidding specs.  
+U
+pper managers were a harder sell. 
+T
+ hey were skeptical that the  
+E
+ uropeans would ever agree on these new standards, let alone  
+
+enforce them. But 
+E
+ lena kept working the decision-makers, sending  
+
+ them articles and writing memos about the benefits of being first.  
+
+F
+ i na lly , t he top  e xec u tiv es  sa w s om e c onc re te  ad va nta ges  a nd got  
+
+behind the idea. 
+E
+ urope is now the company™ s biggest customer and  
+
+ the company™ s improved quality is attracting 
+U
+.
+S
+. business as well.
+T
+ he company™ s increased success sprang from 
+E
+ lena™ s self-man
+-
+agement. 
+S
+ he took it on herself to enhance her value despite her  
+
+ unsupportive manager . 
+S
+ he was also spotting opportunities to  
+
+ i n c r ea s e  t h e c o m p an y ™ s  v al u e .  
+F
+ i n a l l y ,  
+E
+ l e n a™ s  a c t i on s  p oi n t  u p  t h e  
+interconnectedness of the work strategies. 
+H
+ er  self-management  
+
+ also involved initiativeŠa willingness to move beyond her  
+
+ narrow  job description,  beyond even the boss,  to  reach a goal that  
+
+benefited everyone. 
+T
+ o top things off, she refused to give up.  
+ 4. Getting the big pictur e
+A
+ v e ra g e  p er f o r me r s  s u f fe r  f r o m t u n n e l v i s i on .  
+T
+ h e y s ee  t h e  
+ w o r l d  f r o m  t h e i r  v i e w p o i n t  o n l y  a n d  k e e p  p u s h i n g  t h e  s a m e  
+
+points over and over again.
+S
+ tars, in contrast, step outside their own viewpoint and adopt  
+a variety of perspectives: ﬁ
+H
+ ow do my customers think about this?  
+
+W
+hat do my competitors think? 
+H
+ow about my colleagues? 
+W
+ hat  
+10.Engineers.indd   54
+6/23/16   9:37 AM
+Authorized licensed use limited to: Cisco. Downloaded on July 16,2021 at 09:15:12 UTC from IEEE Xplore.  Restrictions apply.
+ 
+Page 5 
+----------------------------------------------------------------------------------------------------
+KE
+LL
+E
+Y Š 
+HOW
+ 
+TO
+ B
+E
+ 
+A
+ 
+ ST AR
+ 
+EN
+GI
+NEER
+ 
+ 
+ 
+55
+about top management or the shareholders?ﬂ Because they can 
+ evaluate the relative importance of a variety of viewpoints, they  
+
+ are able to improve on the product or develop better solutions to  
+
+ problems.  
+S
+ tar perspective grows out of getting enough experience to  
+ develop  pattern  recognition. 
+S
+ arah  took  a  software  development  
+ j o b  i n  
+S
+ i l i c o n  
+V
+ a l l e y  a f t e r  c o m p l e t i n g  h e r  m a s t e r ™ s  d e g r e e  i n  c o m
+-
+puter science. 
+D
+ uring school and on her software designer job,  
+
+ sh e k ept  a n ote book  of  obs er vati ons  on the  so lut ion s to  co mmo n  
+
+problems. 
+E
+ very night, she would review the notebook, looking  
+
+for clues and patterns like another 
+S
+herlock 
+H
+ olmes.  
+W
+ ith her combination of practice and experience, she certainly  
+ kept up with the other new hires, but what eventually separated  
+
+ her  from  the pack  was  her internalized  grasp  of  software  and  
+
+computer logic. Co-workers were quick to recognize her insight
+-
+fulness, seeking her help in surmounting their brick walls. 
+S
+ uch  
+
+ encounters gave her valuable exposure to problems she would not  
+
+have faced in her own work.
+A
+ fter her first year , 
+S
+ arah stunned her colleagues by requesting  
+ a transfer to software testing, an assignment often mistakenly  
+
+considered second-class, a career dead-end. 
+T
+ he tester checks on  
+
+others™ work, to determine if the software does what it should. 
+
+T
+ here is scant personal satisfaction of the kind that comes from  
+
+creating new products. 
+S
+ oftware developers tolerate testers, albeit  
+
+ reluctantly and usually defensively , as the necessary bearers of bad  
+ newsŠidentifying bugs and checking for quality .  
+But 
+S
+ arah saw the tester job as a chance to understand her work  
+ from  a fresh and crucial perspective. 
+S
+ he would become familiar  
+ with a  wider range of  problems  that could make software fail. 
+S
+ he  
+would gain years™ worth of experience in just a year or two. 
+S
+ he  
+
+would collaborate with top customers on building testing pro
+-
+grams of relevance to their perspective.
+ In the  process, 
+S
+ arah would  avoid mistakes  of  substance  and  
+perspective in her own future software designing. 
+T
+ esting also  
+ o p en e d  a w i n do w  i n to  t h e  pe r s p ec t i v e  of  h e r  co l l e ag u e s . 
+S
+ h e  
+ learned techniques her co-workers used in writing software and  
+
+ corrected flaws found during the testing process.  
+W
+ h e n  
+S
+ a r ah  r e t u rn e d  to  s o ft w a r e  de v e l op m e n t  t w o  ye a r s  l at e r ,  
+ the testing stint star ted to pay off. 
+H
+ er colle agues wer e soon  
+
+ referring to her as the Zen Master of software, and she became  
+
+ known as a leading software guru, helping propel her company  
+to the top in 
+S
+ilicon 
+V
+ alley .  
+S
+tar performers, like 
+S
+ arah,  who have mastered the  nuances of  
+perspective, were not born to the art of it. 
+T
+ hey seek it out and  
+cultivate its benefits.
+ 5. The right kind of followership  
+A
+ ver age pe rform ers be lie ve th at fol lower shipŠ that i s, th e re la
+-
+ tionship  with  people  having  organizational  authority  and  power  
+
+ over  themŠmeans  showing  managers  and  co-workers  that  they  
+
+ know how to toe the line, take orders without question, and not  
+
+ threaten the leader .  
+S
+tar producers learn very early the importance of a more pos
+-
+itive form of followership, of being a good 
+N
+ o. 2Šthat it is often  
+
+ m or e  im p or t an t  t o  ma k e  th e  as s is t  th a n t h e s c or e . 
+T
+ h ey  a re  
+ actively engaged in helping the organization (and usually the  
+
+ leader) succeed, while exercising independent, critical judgment  
+
+ about  what  needs  to be  done  and  how to  do  it. 
+S
+ tar  followers  
+ work cooperatively with a leader to accomplish the organization™ s  
+
+ goals even when there are personality or workplace differences.  
+T
+ his finding was surprising since it contradicts what many  
+people thinkŠthat a star is always a leader or the center of atten
+-
+ t i o n .  
+O
+ f t e n  s t a r  f o l l o w e r s  s u p p o r t  t h e  l e a d e r  b y  a l e r t i n g  h i m  o r  
+ her to trouble spots, by serving as a thoughtful sounding board,  
+
+ or by challenging the leader™ s decisions.
+ In many technology companies, a fine  line must be walked  
+ between what the company believes the customer wants and what  
+ the knowledge workers think is best. I often hear bosses complain  
+
+that their engineers are building a 
+R
+olls 
+R
+ oyce when the customer  
+
+only needs a 
+D
+odge. 
+E
+ namored of their ability to build the best,  
+
+ workers want to attach all the latest bells and whistles, even  
+
+ though this can lead to delays or budget overruns.  
+In one such exchange, a star engineer at Bell Labs had to con
+-
+ front the boss™ s nagging about his extra efforts. 
+T
+ he boss wanted  
+
+ to ship a stripped-down call-routing feature for the telephone  
+
+ switch in order to come in ahead of schedule and win points with  
+
+ the customer .
+ﬁ
+F
+orget about all the extras. 
+T
+ he customer would rather have  
+ a basic model today than the greatest model one month from  
+
+ now ,ﬂ she said.
+N
+ ot necessarily , said the star performer , and sat down with her  
+ to  review  the  product™ s  short-  and  long-term  goals  for  this  cus
+-
+ tomer and others in the marketplace.  
+ﬁ
+S
+ ure, there might be short-term gains with this customer ,ﬂ said  
+ the follower , ﬁbut there are risks, too. 
+T
+ hey may relegate us to the  
+
+ low end of the line when we have staked out the high-end market.  
+
+A
+ lso, if we do the extr a wo rk on th is customer™ s product now , we™ll  
+
+ save on product development time for other customers already in  
+
+ the pipeline. But let™ s find out what the customer prefers.ﬂ
+O
+ u r  s t a r a s  f o l l o w er  u n d e r s t o o d  t h e  b o s s ™ s  i m m e d i a te  c o n c e r n s .  
+A
+ t the same time, he tried to shift her perspective to the larger  
+
+overall goals they shared. 
+W
+ hen possible, such followers temper  
+ their own  efforts so  that they  fall  in  the  range  of  company objec
+-
+tivesŠor they find an organization that is a better match.
+ 6. T eamwork as joint ownership of a pr oject
+A
+verage performers think teamwork means working coopera
+-
+ tively with others on a project or problem and doing your part  
+on the team.
+S
+tar producers take it to a higher level. 
+T
+ hey see it as a complex  
+ series of skills that involve taking joint ﬁownershipﬂ of goal-setting,  
+
+group commitments, work activities, schedules, and group accom
+-
+ plishments. It also means being a positive contributor to the group™ s  
+
+ dynamicsŠhelping everyone feel part of the team, dealing with  
+
+conflict, and assisting others in solving problems.
+A
+  medical equipment supplier formed a crisis team because  
+ hospitals were furious over recent failures in the companies™ latest  
+
+critical care monitors. 
+T
+he equipment gave off emergency warn
+-
+ings at random, distressing both patients and the hospital staff 
+
+ who would rush into triage alert only to find nothing wrong.  
+ 
+T
+ he  team consisted of professionals  from five departments,  
+including production, research, and customer service. 
+O
+ f the  
+
+ g ro up ™ s  s ev en  m e mb er s,  t he  o nl y st ar  w as  
+A
+ i de n,  an  en gi ne er  w ho  
+ had moved into customer service to learn more about that side of  
+
+ the business.  
+D
+ uring the third hour of the first team meeting, a heated debate  
+ erupted over what action should be taken immediately . 
+E
+ wing, a  
+
+ 53-year -old production engineer with 25 years of experience at the  
+ company , argued for continuing to send repair people to the disaf
+-
+ fected  hospitals  to  fix  the  machines  on  site.  But  Julie,  a  recent  hire  
+ i n  t h e  r e s e ar c h  d e pa r t m e n t,  a r gu e d  f or  f o l l ow i n g  J o h n s on  &  
+
+ Johnson™ s lead from the 
+T
+ ylenol disasterŠrecall all the machines.  
+T
+he discussion dragged on, with 
+E
+ wing and Julie getting more  
+heated and less civil. 
+A
+iden noticed that he and others were get
+-
+ ting frustrated and fidgety . 
+R
+ ather than let the matter go  
+
+ unchecked, he mentioned it, and upon getting nods of agreement  
+
+from several of the others, he suggested, ﬁ
+W
+ hy don™ t we take a  
+
+10-minute break, so that we can all take a breather and maybe 
+
+find a way around this?ﬂ
+W
+hen the meeting resumed, 
+A
+ iden thought he could break the  
+impasse by asking Julie to present and argue for 
+E
+ wing™ s approach  
+
+and getting 
+E
+wing to argue hers. 
+A
+lthough both Julie and 
+E
+ wing  
+
+ were wary , the tactic defused the mounting tension and anger . 
+T
+ hen  
+
+ other  group  members  started  to  bat  ideas  around. 
+E
+ loise,  an  experi
+-
+10.Engineers.indd   55
+6/23/16   9:37 AM
+Authorized licensed use limited to: Cisco. Downloaded on July 16,2021 at 09:15:12 UTC from IEEE Xplore.  Restrictions apply.
+ 
+Page 6 
+----------------------------------------------------------------------------------------------------
+56
+ 
+ 
+ 
+I
+EEE
+ 
+S
+PE
+C
+TRU
+M
+   
+OC
+TO
+B
+ER 1999
+ e nc ed   bu t  s hy  d es i gn er  w h o  sa t  i n  t he  c or n er   an d  ha d  n ot  s ai d  a  
+ w or d  a l l  d a y ,  sp o k e u p i n  a  so f t  v o ic e :  ﬁ
+S
+ i nc e  n ot  ev e r y h os p i t al  is  
+ complaining, shouldn™ t we first find out why these particular  
+
+ ma ch ine s are  m alf unc ti on ing?  
+E
+ i the r t he y™r e bro ken  t o s tar t w it h, or  
+something is going on in the hospitals they™re in. 
+S
+ o, rather than pull  
+
+ all the machines, maybe we should pull only those having problems  
+
+ and gather information on each setting to see if something there is  
+
+causing the problem, like a high magnetic field.ﬂ
+N
+ o one commented on her idea and the discussion resumed.  
+A
+fter a few minutes, 
+A
+iden joined in, saying, ﬁI™m not sure every
+-
+one heard 
+E
+ loise™ s suggestion. I think that she might have a way  
+
+out of this for us. 
+W
+ould you mind repeating it for us?ﬂ
+W
+ ith  that, 
+E
+loise made her point again. 
+A
+ iden  observed that 
+ it demonstrated  customer responsiveness  but was  less  expensive  
+
+than a total recall. 
+T
+he rest of the group then supported 
+E
+ loise™ s  
+
+suggestion to get through the group impasse, and moved on to 
+
+other topics. 
+W
+ithout 
+A
+ iden™ s intervention, 
+E
+wing and Julie might still be 
+fighting, 
+E
+ loise might never have been heard, and the group  
+
+ might  have  floundered  indefinitely .  By  going  beyond  his  role  as  
+ the cu stomer service  r ep to the team, 
+A
+ iden wa s a ble to improve  
+its effectiveness. 
+ 7. Small-l leadership  
+A
+ verage performers are fascinated by leadership with a big  
+L: Big 
+V
+ision, Big Charisma, Big 
+S
+uccess. 
+T
+ o them, leadership  
+ seems an in-born trait whose owners can flaunt their egos by  
+
+ being in charge, having the power to make most key decisions,  
+
+ and delegating whatever does not interest them.  
+S
+ tar performers, on the other hand, view leadership as a work  
+ strategy that builds on expe rt ise and influence to convince a  
+
+group of people to unite on a substantial task. 
+T
+ he undertaking  
+
+ can involve a range of effortsŠhelping the group create a clear  
+
+ vision of where they want to go along with the high commitment  
+and trust necessary to get there; finding the resources to accom
+-
+ plish  the  task;  and  shepherding  the  project  to  successful  comple
+-
+ tion.  
+W
+ e all know very smart people who couldn™ t lead a one-car  
+funeral. 
+O
+ ther critical skills besides intelligence are involved in  
+leadership with a small l. 
+S
+ mall-l leaders understand the human  
+
+ relationships that link people to each other , whereas Big Ls are  
+
+ much too focused on their own ideas, their own work styles, their  
+
+own goals. 
+S
+ mall-l leaders know they need to take into account  
+
+ the needs, skills, aspirations, and power of their co-workers on a  
+
+project or team.
+T
+ his focus outside the self is productive because of a work  
+ place  reality  that  Big  Ls  often  overlook. 
+S
+ mall-l  leaders  seldom  
+ h ave  f or ma l au th or it y ov er  t ho se  t he y wan t  to  l ea d.  
+P
+ e er s wi ll  g o  
+ along only if they believe a member of the group who wants to  
+
+ lead is acting in their interest as much as his or her own. Bringing  
+
+ them  around  requires  the  kind  of  interaction  that  Big  Ls  believe  
+
+is a waste of precious leadership time. 
+T
+ he small-l leader who  
+
+ bonds with co-worker followers by slogging through the daily  
+
+ project  grind and sharing late-night  pizzas while  meeting dead
+-
+ lines earns more loyalty and credibility than even the  most char
+-
+ ismatic Big L boss.  
+T
+ he big secret here from our star performersŠthe secret that  
+separates them from Big Ls and other average-performing lead
+-
+ ersŠis  their  refusal  to  assume  they  know  everything  about  other  
+
+people. Most Big L hype portrays the leader as omniscient. 
+T
+ he  
+
+ Leader knows what™ s best for the followers and for the situation.  
+O
+ur star performers make a habit of asking first, even when 
+ they think they already know . 
+A
+nithia, a 
+U
+.
+S
+ .-based software  
+
+designer for a German-owned business, rarely begins a new proj
+-
+ e c t  w i t h o u t  t e s t i n g  h e r  a s s u m p t i o n s  a b o u t  h e r  c o - w o r k e r s .  
+W
+ h e n  
+ assigned to lead six co-workers in a project to develop a new  
+
+ software  program  for  the  Internet,  she  took  time  out  from  the  first  
+meeting to ask about work roles and assignments.
+ ﬁJohn, during our last project together , you said that you  
+ wanted  more  hardware  experience.  Is  that  still  the  case?  Because  
+
+this project has a strong hardware component to it.ﬂ
+Like a perceptive psychologist, 
+A
+ nithia suspended her own  
+ assumptions and asked empowering, open-ended questions that  
+
+ got people talking about what skills each brought to the table and  
+
+ what  each  one  wanted  from  the  project. 
+A
+ s  a  result,  she  was  able  
+ to match work assignments to individual skills and interests more  
+
+ c los el y . 
+S
+ he  w an ted  t o a vo id pi ge onh ol in g h er  c o-w or ker s , i n t he  
+
+way 
+H
+ollywood producers do when they type-cast actors.
+O
+ f course, employees cannot always get everything they want.  
+ But with the sincere offer to listen and the attempt to meet some  
+
+needs a small-l leader without formal authority wins a lot of influ
+-
+ence. 
+T
+ hose  efforts  also  provide  the  firm  platform  needed  when  the  
+ inevitable  stresses  hit  during  the  project™ s  crunch  times. 
+D
+emon
+-
+ strated superiority in a technical area may in any case justify some  
+
+ small-l stars in becoming an interim leader . But they know that  
+
+ hierarchy does not extend to the interpersonal side, where instead,  
+
+they try to create a we™re-all-in-the-trenches-together attitude.
+T
+o software designer 
+A
+ nithia, the Internet project in which she  
+acted as small-l leader proved a huge hit with customers. 
+A
+ t the  
+
+ annual awards  banquet,  the  president of  the 
+N
+orth 
+A
+ merican  divi
+-
+sion praised it as being ﬁvintage 
+A
+ nithia.ﬂ Inviting her to the stage,  
+
+he compared it to other successful projects 
+A
+ nithia had led in the  
+
+ past. If the company had 500 more like her , he said, domination  
+
+of the 
+U
+.
+S
+. market would be assured. 
+T
+ hen, he summoned her to  
+
+the podium to speak.
+Like so many self-important actors clutching their 
+O
+ scars,  
+A
+ nithia could have rushed through the standard nice words about  
+
+ her boss and project members. Instead, she invited them all on  
+
+ stage with her and asked one of them to introduce each member  
+
+of the group. 
+T
+hen she stepped to the microphone and said, ﬁ
+T
+ his  
+ project was the result of our effort; without each person™ s contri
+-
+bution, it would not have been the success it is. 
+W
+ e were proud  
+of it, and glad that you are, too.ﬂ 
+T
+ hen they took a collective bow .
+ 8. Str eet smarts
+A
+ verage performers focus overly on ingratiating themselves as  
+10.Engineers.indd   56
+6/23/16   9:37 AM
+Authorized licensed use limited to: Cisco. Downloaded on July 16,2021 at 09:15:12 UTC from IEEE Xplore.  Restrictions apply.
+ 
+Page 7 
+----------------------------------------------------------------------------------------------------
+KE
+LL
+E
+Y Š 
+HOW
+ 
+TO
+ B
+E
+ 
+A
+ 
+ ST AR
+ 
+EN
+GI
+NEER
+ 
+ 
+ 
+57
+the surest way to get ahead in the workplace. 
+T
+ hey also pay  
+obsessive attention to office politics or patronizingly ignore it.
+S
+ tar producers know that any large organization has legitimate  
+competing interests. 
+O
+ rganizational savvy enables them to steer  
+
+their way amid these clashes, to promote cooperation, address 
+
+conflicts, and get things done. It can involve expertise in manag
+-
+ ing individual or group dynamics, understanding when to avoid  
+
+ conflicts and when to meet them head on, and knowing how to  
+
+make allies out of potential enemies.
+R
+emember 
+S
+arah, the software-developer star introduced in 
+S
+trategy 
+N
+ o. 4 on perspective [p.54] who volunteered for a stint  
+
+ in the testing section, though her co-workers thought her crazy  
+
+to do so. 
+S
+he also identified people with whom she would inter
+-
+ act  in the future and began building working  relationships. 
+T
+ hese  
+ organizational bonds not only raised her standing in their eyes,  
+
+but also smoothed the way for future interactions.
+E
+lena, the star performer from 
+S
+trategy 
+N
+o. 3, on self-manage
+-
+ ment [p.54], used extensive organizational savvy to focus her  
+
+company on I
+SO
+  9000 and the opportunities presented by the  
+
+E
+uropean market. 
+F
+irst, she held a brown bag lunch for her col
+-
+leagues to tell them what she had learned at a professional con
+-
+ference. 
+W
+ hen she became more adept, she offered detailed  
+
+ tutorials. Meanwhile, she sat down with her boss to explain the  
+
+ benefits  to the  company  of  the  special standards,  and  quietly  
+
+ lo bbi ed upp er  man age men t b y s end ing  th em rel eva nt  art ic les  an d  
+
+short memos on the sales and profit potential. 
+O
+ f course, she  
+
+ made sure to ask her boss™ s blessing before contacting top execu
+-
+tives. 
+S
+ he then trained others in her company in how to bid for  
+
+E
+uropean customers. 
+S
+ o while trying to promote her ideas, she  
+
+ was tying them to the company™ s critical path and paying atten
+-
+tion to organizational protocol.
+9. Show and tell
+A
+verage performers think 
+S
+how-and-
+T
+ ell means getting  
+ noticed by upper management through slick presentations,  
+
+ long-winded memos, and public displays of affection for their  
+
+own work. 
+T
+hey focus primarily on their image and their mes
+-
+sage, not on the audience.
+S
+ tar producers use a series of skills involving selecting which  
+ information to pass on to which others and developing the most  
+
+ effective, user -friendly format for reaching and persuading a spe
+-
+cific audience. 
+A
+t its highest level, 
+S
+how-and-
+T
+ell involves select
+-
+ ing either the right message for a particular audience or the right  
+
+audience for the particular message.
+T
+here is no getting around it. 
+T
+ he economy of the 1990s is a  
+ tough place for professionals who have trouble presenting their ideas  
+
+to groups, especially in personal presentations. 
+F
+ or most knowledge  
+
+ workers, we™re not talking about big productions, like Bill Gates or  
+
+ B i l l y  G r a h a m  a d d r e s s i n g  t h o u s a n d s  i n  c a v e r n o u s  c o n v e n t i o n  h a l l s  
+
+ endowed with modern multimedia tools and computer -generated  
+
+special effects. Instead, 
+S
+how-and-
+T
+ ell denotes small end-of-the-hall  
+conference room presentations to groups of five to 20, with an occa
+-
+ sional  auditorium  presentation  thrown  in. 
+T
+ he  audience  is  co-work
+-
+ ers, or upper -level managers, or customers. 
+T
+ he content is usually  
+
+ technical and product-related.  
+ In the realm of the star producer , though, the process is  
+more sophisticated. 
+F
+rom our research, we observed a fine-tun
+-
+ i n g  o f  
+S
+ h o w - a n d -
+T
+ e l l Š f r o m  m e r e  t r a n s m i t t a l  o f  i n f o r m a t i o n  
+points to the sculpting of the message. 
+T
+ he stars we observed  
+
+ had mastered the ability to deliver a message to a targeted  
+
+ audience, to persuade listeners to accept the message, and to  
+
+ be proactive in deflecting criticism.  
+W
+ here  average  performers  fail  most  often  is  in  making  the  
+ leap from the basic dispensing of information to the high level  
+
+of using the message to influence. 
+T
+ heir style and framework  
+
+ of delivery remains the same even though their audiences can  
+
+differ a lot in makeup.
+A
+ labor relations manager for a 
+F
+ ortune 500 corporation did it  
+ the  right way  when  he  had  to reduce  health  care  costs  in  a  new  
+
+ contr act to b e negotiat ed with t he comp any™ s un ions. 
+T
+ he  p lan  
+
+ he developed had to be acceptable to both the top officers of the  
+
+company and the unions.
+H
+ is approach was to fashion the same information in radically  
+ different ways, first to a small group of lower -ranking union offi
+-
+ cials in bite-sized chunks over a week of meetings on their home  
+
+ t u r f .  
+H
+ e  p r o v i d e d  t h e m  w i t h  c l e a r ,  e a s y - t o - r e a d  h a n d o u t s  t h a t  
+ could be duplicated and handed out to rank-and-file members  
+
+ with a reasonable chance of being understood quickly . 
+T
+he pre
+-
+ sentation™ s high  point  was the  message  that  the  union™ s  agreement  
+
+ to  switch over to a managed  care  program  would be balanced by  
+
+ the company™ s promise to use the cost savings to modernize out
+-
+ d a t e d  p l a n t s ,  m a k i n g  t h e m  c o m p e t i t i v e  a n d  r e d u c i n g  t h e  r i s k  o f  
+
+closings and job losses.
+H
+ is earlier presentation to the company™ s chief executive offi
+-
+cer (C
+EO
+ ) and top vice presidents  contained  fundamentally  the  
+
+ same information, but it was packaged quite differently . 
+F
+ irst, the  
+
+ time window for his presentation was much shorter than that  
+
+allowed by the unions. 
+T
+ he bulk of his message was delivered in  
+
+a no-nonsense, well-documented, and detailed report with a per
+-
+suasive section on recommendations for acceptance. 
+H
+ e was able  
+
+ to reinforce his basic message in person in a 1-hour meeting on  
+
+the company plane with the C
+EO
+ and the company president.
+H
+ is position was that if management demanded changes in  
+ health care benefits without any creative incentives, the unions  
+
+would balk and make negotiating a new contract nearly impossi
+-
+ble. 
+H
+ e noted that the company was just entering on a period of  
+
+ impressive  growth  and that  stockholders would  hardly take  kindly  
+
+to a protracted strike.
+W
+ hile there was criticism of his plan within both camps, the  
+ star labor negotiator had laid his groundwork well. In the end,  
+
+ both management and the rank-and-file approved the health care  
+
+benefits proposal with only minor changes.
+O
+ f  t he many  s tar 
+S
+ h ow-an d-
+T
+ el l les sons  to  b e l ear ned fr om  
+ this example, the most important is the one that differentiates  
+
+between 
+S
+how-and-
+T
+ ell stars and average presenters: know your  
+audience and shape your message to it.
+ Meara designs software for the transmission of imagesŠX-rays,  
+electrocardiogram readings, and live closed-circuit 
+TV
+  shotsŠover  
+
+phone lines to and from hospital emergency operating rooms. 
+S
+ he  
+
+ used a short video clip to start a presentation to emergency room  
+
+ physicians and hospital directors of her team™ s latest software design.  
+
+T
+ he clip showed a car slamming on screeching brakes, the whine of  
+
+ the ambulance siren, a small child being rushed into the emergency  
+
+ room, and a doctor flicking on her company™ s equipment saying they  
+
+only had minutes to save a young life.
+ﬁ
+O
+ ur work can make the difference in saving this child™ s or your  
+ child™ s life,ﬂ Meara told her audience. ﬁ
+T
+ hroughout our project,  
+
+ w e  p l a y e d  t h i s  v i d e o  c l i p  t o  r e m i n d  o u r s e l v e s  o f  t h e  i m p o r t a n c e  
+
+of giving it the best we could. 
+N
+ow let me share it with you.ﬂ
+T
+ o compare her software™ s effectiveness with that of previous  
+ vers ions, Meara  used an el ectroni c timel ine accom panied by  
+
+ t h e  t h u m p  o f  a  h e a r t b e a t  a s  h e a r d i n  e m e r g e n c y  r o o m s .  
+F
+ i r s t ,  
+ she ran the old software, but as the audience waited for the  
+
+ pulsing images to come up on the screen, the timeline reached  
+ its end, the heart stopped beating, and the emergency room  
+ alarms  went  off. 
+W
+ ith  the  new  software,  the  images  arrived  
+ faster and beat the timeline.  
+T
+ hen  Meara  took  the  audience  through  the  ups  and  downs  of  
+ the project as they tried various solutions to shaving time off the  
+
+ processŠwhat worked, what failed, and why . 
+S
+ he wove technical  
+
+ points into  the  human  drama of  health professionals working to  
+
+save peoples™ lives.
+ M e ar a  h oo k e d  h e r  au d i e nc e  b y g e t ti n g  th e m  to  i d e nt i f y w i t h  t h e  
+ terror of their child™ s being in a medical emergency and needing  
+10.Engineers.indd   57
+6/23/16   9:37 AM
+Authorized licensed use limited to: Cisco. Downloaded on July 16,2021 at 09:15:12 UTC from IEEE Xplore.  Restrictions apply.
+ 
+Page 8 
+----------------------------------------------------------------------------------------------------
+ her company™ s product to work. 
+T
+hen, she dramat
+-
+ ically demonstrated the value of the new product.  
+Becoming a star
+W
+ e conducted a long-term study evaluating  
+ how  productive  engineers were before  and  after  
+ they had learned star work strategies by going  
+
+ t hr o u gh  ou r  pr o du c t i vi t y  i m pr o ve m e n t p ro g ra m .  
+
+ Currently called Breakthrough, this program has  
+
+ been taught for the past seven years to over 1000  
+
+ pe o pl e in  m an y co m pa ni es  n ot  o nl y i n th e 
+U
+ n it e d  
+
+S
+tates but in 
+E
+urope as well. It is licensed to pro
+-
+ fe ss io na l t ra in in g c om pan ie s an d i s b ei ng  u se d i n  
+
+ universities both in the classroom and for staff  
+
+development
+A
+ s a basis for our evaluation, we met with  
+ managers,  star  performers,  and  average  work
+-
+ ers, asking them to list the factors indicative of  
+
+ increased productivity in a person working in  
+
+ the ir dep artments . 
+S
+ ev eral iterat ions e nsured  
+
+ that people who rated highly on these  factors  
+
+ were indeed highly productive.  
+T
+ h e n  w e  a s k e d  d i r e c t  m a n a g e r s  t o  r a t e  3 0 0  
+ participants and 300 nonparticipants on this list  
+
+ o f pr od u ct i vi t y fa ct o rs ,  o nc e  b ef o re  t h e t ra in i ng  
+
+ sessions  began  and  a  second  time  eight  months  
+
+ after finishing the program.  
+O
+n the basis of these managerial evaluations, 
+ program participants were found to have  
+
+ increased their rate of productivity improvement  
+
+ significantly . 
+T
+ he engineers who went through  
+
+ the program solved problems faster , produced  
+
+ higher -quality work, and consistently impressed 
+
+their customers. 
+T
+ he star strategies program is not a remedial  
+course for poor performers. 
+A
+ bout 30 percent  
+
+of the participants taking part in our productiv
+-
+ity improvement programs already were wear
+-
+ing the star producer label. 
+T
+heir pro
+ 
+ ductivity  
+ gains have been similarly impressive.  
+T
+ he most dramatic changes were in the ranks of  
+ women and minorities, according to their bosses™  
+
+ pre-  and  post-evaluations. 
+T
+ heir  productivity  
+ improvement rates shot up 400 percent on average.  
+T
+ he success of these groups underscores a key  
+ finding in our work. Becoming highly productive  
+
+ does n ot require m agic. 
+W
+ hen e ng ineers pr od uce  
+
+ at undistinguished levels, it is seldom because they  
+ are  less  capableŠit  is  because  they  never  learned  
+ the  work  strategies that  lead  to  high  productivity .  
+
+O
+nce these en
+ 
+ gineers are given access to the star  
+strategies, their productivity takes off.
+˜
+˜
+˚
+About the author
+R
+ obert E. Kelley teaches at Carnegie Mellon  
+U
+ nivers ity™ s business school, in Pit tsburgh. 
+H
+is 
+ H ow 
+ to Be A Star at W ork: Nine Breakthrough Strategies  
+ Y ou Need to Succeed 
+(
+T
+ imes Books, 1998, 1999) has  
+just been updated and released in paperback. 
+H
+ is  
+other books include 
+ The Gold Collar W orker:  
+ Harnessing the Brainpower of the New W orkforce
+. 
+
+H
+e can be reached by e-mail at 
+R
+obert@ Kelley
+I
+deas.
+com. More about his ideas is accessible on the 
+W
+ orld  
+W
+ide 
+W
+ eb at www .kelleyideas.com.
+Spectrum
+ editor: 
+T
+ekla 
+S
+. Perry
+Quiz on
+ ‚Understanding Star Performers™  
+I
+ ndividuals who outperform their colleagues by a wide margin are often  
+called ﬁstar performers.ﬂ 
+H
+ ow much do you know about these individuals?  
+
+A
+re the following statements 
+T
+rue or False?
+_____1) 
+S
+tar performers are born, not made.
+_____2) 
+   S
+ t ar  pe r fo rm er s are  sm ar te r th an  a ver ag e  p er fo rm er s (h av e hi gh er  
+I
+Qs, are better problem solvers, or are more creative).
+_____3) 
+S
+tar performers are more driven and ambitious than others.
+_____4) 
+S
+tar performers have more leadership skills than others.
+ _ _ _ _ _ 5 )  
+ 
+ C l e a n  d e s k  p e o p l e  a r e  m o r e  l i k e l y  t o  b e  s t a r  p e r f o r m e r s  t h a n  m e s s y  
+desk people.
+ _ _ _ _ _ 6 )  
+   D
+ etailed time management and organizational systems are keys  
+
+ to high productivity .
+ _ _ _ _ _ 7 )  
+   S
+ tar performers work longer hours and harder than average  
+
+performers.
+ _ _ _ _ _ 8 )  
+   S
+ tar performers are more satisfied with their jobs than average  
+
+performers.
+ _ _ _ _ _ 9 )  
+   S
+ tar performers are successful primarily because they play  
+
+ organizational politics and give slick presentations to upper  
+
+management.
+ _ _ _ _ _ 1 0 )  
+ 
+ Minorities and women can seldom be as productive as people who  
+are part of the ﬁold boyﬂ network.
+ _ _ _ _ _ 1 1 )  
+ 
+ People cannot sustain a doubled rate of productivity improvement  
+for long time periods.
+ 
+
+_____12) 
+   I
+  would rather have a team with one star performer supported  
+
+ by four average performers than a team with five performers who  
+
+are all in the top 5 percent.
+A
+ nswers: 1)F; 2)F; 3)F; 4)F; 5)F; 6)F; 7)F; 8)F; 9)F; 10)F; 11)F .
+S
+core: 
+ 
+10 to 11 Š you know what leads to star performance
+ 
+8 to 9  Š above average
+ 
+ 
+5 to 7  Š average understanding of star performance
+ 
+    
+0 to 4 Š your understanding of what leads to star performance is
+ 
+limited and probably based on unfounded, naïve assumptions
+ 
+about stars.
+ Question 12 does not have a right or wrong answer . 
+I
+ t does indicate whether  
+ you believe in one star to lead to success or in having a group of top  
+
+ performers from which one  or more stars may emerge. 
+I
+ n today™ s highly  
+competitive world, the latter strategy is more likely to give you an edge.
+S
+tar Performer productivity is not the result of innate traitsŠlike 
+I
+ Q,  
+ personality , or character . Productivity depends on how they do their jobs.  
+
+T
+ he everyday work strategies of the star performers, not gimmicky products  
+
+ or  working long hours,  make  the  dif ference. 
+W
+ hen  certain star  performer  
+ strategies are systematically integrated into everyday work routines, then  
+
+ productivity improvement rates can double. For those groups excluded  
+from the ﬁold boysﬂ network, like minorities and women, productivity 
+improvement rates can increase 400 percent.
+58
+ 
+ 
+ 
+I
+EEE
+ 
+S
+PE
+C
+TRU
+M
+   
+OC
+TO
+B
+ER 1999
+10.Engineers.indd   58
+6/23/16   9:37 AM
+Authorized licensed use limited to: Cisco. Downloaded on July 16,2021 at 09:15:12 UTC from IEEE Xplore.  Restrictions apply.
+ 

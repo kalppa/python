@@ -10,5 +10,13 @@ print(type(mylist))
 mylist[0] = "new"
 print(mylist)
 
+""" Tuples are immutable - values cannot be reassigned."""
 t[0] = 1
 print(t)
+
+""" Tuple Unpacking """
+
+device_tuple = ('1.1.1.1', 'username', 'password')
+ip, user, pw = device_tuple
+
+print(ip,user,pw)
