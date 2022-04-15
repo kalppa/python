@@ -12,9 +12,11 @@ my_list = []
 my_list = [1,2,3]
 my_list = ['sting', 100,200,300]
 
+# How many elements in the list
 print(len(my_list))
 
 print(my_list[1])
+print(my_list[-1])
 
 list2 = [1,2,3]
 new_list = my_list + list2
@@ -41,31 +43,37 @@ print(list1)
 
 # print(myfunc('We are ready'))
 
-def myfunc(name):
-    list = name.split()
-    list.reverse()
-    return  " ".join(list)
+# def myfunc(name):
+#     list = name.split()
+#     list.reverse()
+#     return  " ".join(list)
+#
+# print(myfunc('We are ready'))
 
-print(myfunc('We are ready'))
+#
+# """shuffle a list"""
+# print('----- shuffle a list -----')
+#
+# mylist = [1,2,3,4,5]
+# random.shuffle(mylist)
+# print(mylist)
+#
+#
+# """ Converting """
+# print('---Converting Tuple to List')
+#
+# device_tuple = ('1.1.1.1','username','password')
+# print(f'device_tuple is {device_tuple}')
+# device_list = list(device_tuple)
+# print(device_list)
+#
+# print('---Converting String to List')
+# device_string = '1.1.1.1,username,password'
+# device_list = device_string.split(',')
+# print(device_list)
+#
+#
+# """ count total items in the list """
+# aList = [123, 'xyz', 'zara', 'abc', 123]
+# print(aList.count(123))
 
-
-"""shuffle a list"""
-print('----- shuffle a list -----')
-
-mylist = [1,2,3,4,5]
-random.shuffle(mylist)
-print(mylist)
-
-
-""" Converting """
-print('---Converting Tuple to List')
-
-device_tuple = ('1.1.1.1','username','password')
-print(f'device_tuple is {device_tuple}')
-device_list = list(device_tuple)
-print(device_list)
-
-print('---Converting String to List')
-device_string = '1.1.1.1,username,password'
-device_list = device_string.split(',')
-print(device_list)
